@@ -1,4 +1,5 @@
-## This website is deployed 
-##   visit  timxmascountdown.surge.sh
+# Christmas-countdown
+A Countdown to Christmas built with HTML, CSS and JS. No React...
 
-This website is fully responsive.
+This PROJECT is fully responsive and deployed 
+## timoxmascountdown.surge.sh
